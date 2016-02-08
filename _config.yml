@@ -1,0 +1,28 @@
+name: rileymaclean
+favicon: null
+layout_spectrum: 0.5126747840549797
+typography_spectrum: 0.9509441899135709
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7242562021128833
+  lightness: 0.3604833635035902
+  saturation: 0.13662725989706814
+  rhythmicContrast: 0.6892868534196168
+purpose: []
